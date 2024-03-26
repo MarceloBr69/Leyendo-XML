@@ -1,0 +1,9 @@
+<display-name> --> Es para mostrar el nombre del proyecto
+<servlet> --> Es para describir características del servlet
+<servlet-name> -> Le da un nombre al servlet
+<servlet-class> -> Creo que le da una url
+
+<servlet-mapping> -> Le asigna otras propiedades al servlet
+<url-pattern> -> Le da un patron de url distinto
+
+<welcome-file> -> Me imagino que le ingresa un html al servlet

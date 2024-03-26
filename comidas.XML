@@ -1,0 +1,27 @@
+<Comidas>
+    <Desayunos>
+        <Menú_1>
+            <Menú_1_Nombre>Wafles</Menú_1_Nombre>
+            <Menú_1_Ingredientes>Arándanos</Menú_1_Ingredientes>
+            <Precio>$3.000clp</Precio>
+        </Menú_1>
+        <Menú_2>
+            <Menú_1_Nombre>Pan con huevo revuelto</Menú_1_Nombre>
+            <Menú_1_Ingredientes>Pan y huevo revuelto</Menú_1_Ingredientes>
+            <Precio>$2.000clp</Precio>
+        </Menú_2>
+    </Desayunos>
+
+    <Cenas>
+        <Menú_1>
+            <Menú_1_Nombre>Bistec a lo pobre</Menú_1_Nombre>
+            <Menú_1_Ingredientes>Papas fritas, Huevo frito, Bistec frito</Menú_1_Ingredientes>
+            <Precio>$5.000clp</Precio>
+        </Menú_1>
+        <Menú_2>
+            <Menú_1_Nombre>Tallarines con salsa</Menú_1_Nombre>
+            <Menú_1_Ingredientes>Tallarines y salsa de tomate</Menú_1_Ingredientes>
+            <Precio>$4.000clp</Precio>
+        </Menú_2>
+    </Cenas>
+</Comidas>
